@@ -185,6 +185,24 @@ export default function Projects() {
                       <FaCode size={16} style={{ marginTop: "1px" }} /> Full
                       Stack 開発者
                     </li>
+                    <div className="flex gap-2 py-4">
+                        IT業界歴 5年です。                       
+                    </div>
+                    <div className="flex gap-2 w-24">                       
+                        幅広い業界分野の業務システムを携わってきて、様々なシステムの開発経験を持っております。
+
+                        設計：要件定義、基本設計、詳細設計、運用設計など
+                        アプリ開発：通信App、クローリングソフト、FX自動売買ツール、
+                        システム開発：社内基幹情報システム、不動産情報管理サイト、金融組合システム、人事管理パッケージ、ECサイト、ビッグデータ分析/可視化など
+                        AI：JDLAの「E資格」受験資格取得済み
+
+                        言語：C/C++、C#、Java、Kotlin、Python、GoLang,JavaScript,PHP,Perl,PLSQL、VBA、Ruby
+                        DB：Oracle、MySQL、PostgreSQL、Hive(Hadoop)、MQL、MongoDB
+                        FW/MW:Weblogic, JBoss,Spring,MyBatis,Struts,3D Tiles
+                    </div>
+                    <div className="flex gap-2 py-4 w-56">
+                        このポートフォリオを見ていただきありがとうございます。
+                    </div>
                   </ul>
                 </div>
               </div>
