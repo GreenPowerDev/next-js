@@ -170,7 +170,7 @@ export default function Projects() {
                 </div>
                 <div className="my-6">
                   <h3 className="text-slate-700 font-bold text-xl">
-                    Ashish Sah
+                   宮口 稲次郎
                   </h3>
                 </div>
                 <div className="border-l border-green-800 p-6">
