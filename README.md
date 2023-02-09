@@ -1,3 +1,5 @@
+# 宮口稲次郎
+
 Next.jsとtailwindを利用してこのポートフォリオを作成しました。
 
 ## Getting Started
