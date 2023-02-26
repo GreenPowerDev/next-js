@@ -16,11 +16,11 @@ const Main = () => {
           <div className="max-w-[1240px] w-full h-full mx-auto p-2 flex justify-center items-center ">
             <div>
               <p className="uppercase tracking-widest text-sm text-gray-300 ">
-                想像するところへ
+                スキルと経験
               </p>
               <h1 className="py-4 text-sky-400 font-thin text-10xl">
                 portfolio{" "}
-                <span className="text-white">宮口稲次郎</span>
+                <span className="text-white">高橋秀夫</span>
               </h1>
 
               <p className="py-4 text-gray-400 w-[60%]  m-auto tracking-widest antialiased hover:subpixel-antialiased">
